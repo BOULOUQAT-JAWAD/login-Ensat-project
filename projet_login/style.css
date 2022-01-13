@@ -1,0 +1,14 @@
+div{
+    background-color: lightgrey;
+    border:1px solid black;
+    border-collapse: collapse;
+    margin-top: 10%;
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-bottom: 10%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+a:active{
+    color: red;
+}
